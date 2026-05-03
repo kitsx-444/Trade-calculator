@@ -17,8 +17,8 @@ What I learned:
 3. Functions.
 
 I struggled with:
-1. I forgot the formulas needed for RRR.
-2. The if functions. I used three if functions instead of substituting them with elif and else.
+1. The formulas needed for RRR.
+2. If functions. I used three if functions instead of substituting them with elif and else.
 3. The logic of creating calculatable variables.
 4. Creating ranges that will rank the quality of your risk to reward ratios.
 5. Making the code stop when your risk is equal or lower than 0, without an error.
